@@ -12,9 +12,10 @@ Here is a collection of YouTube videos that you can watch to get an understandin
   - [Techniques for Machine Learning](https://youtu.be/4NGM0U2ZSHU?si=H-5tFzfMDeqgL8zz)
   - [Setup your tools ready to build Machine Learning models](https://youtu.be/-DfeD2k2Kj0?si=x17G3Sa2cZpWduuF)
 
-## Module 2: How to analyze and clean a dataset
+## Module 2: Data Preprocessing and Exploration
   - [How to analyze and clean a dataset](https://youtu.be/5qGjczWTrDQ?si=XknlUgq5TQf2xkMg)
   - [How to visualize data with matplotlib](https://youtu.be/SbUkxH6IJo0?si=-7jLgTfxan-vU2lh)
+  - [Exploratory data analysis](https://youtube.com/playlist?list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ&si=9wXassfHpPCqTPuy)
 
 ## Module 3: Regression models for machine learning
   - [Introduction to Regression Models for Machine Learning](https://youtu.be/XA3OaoW86R8?si=uiQCSNvAOeLMJAh6)
@@ -28,6 +29,6 @@ Here is a collection of YouTube videos that you can watch to get an understandin
   - [Data analysis and preparation for Logistic Regression](https://youtu.be/B2X4H9vcXTs?si=H80Z-eU13Icgjg1g)
   - [Logistic regression for classification of data](https://youtu.be/MmZS2otPrQ8?si=R3GD89YitVP4Z2BX)
   - [Analyzing Logistic regression performance with ROC curves](https://youtu.be/GApO575jTA0?si=vHyRzqtOlAWTp8Sf)
-  - Portfolio project 1
+## Module 4: 
 
 
