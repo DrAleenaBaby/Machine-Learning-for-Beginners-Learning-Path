@@ -17,7 +17,7 @@ Here is a collection of YouTube videos that you can watch to get an understandin
   - [How to visualize data with matplotlib](https://youtu.be/SbUkxH6IJo0?si=-7jLgTfxan-vU2lh)
   - [Exploratory data analysis](https://youtube.com/playlist?list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ&si=9wXassfHpPCqTPuy)
 
-## Module 3: Regression models for machine learning
+## Module 3: Supervised machine learning: Regression
   - [Introduction to Regression Models for Machine Learning](https://youtu.be/XA3OaoW86R8?si=uiQCSNvAOeLMJAh6)
   - [Set up Jupyter Notebooks to start building regression models](https://youtu.be/7E-jC8FLA2E?si=xzM0A9fCyR2FmMxI)
   - [Your First Linear Regression Project in Python](https://youtu.be/2xkXL5EUpS0?si=1VSMDIDo6d0vibFE)
@@ -29,6 +29,25 @@ Here is a collection of YouTube videos that you can watch to get an understandin
   - [Data analysis and preparation for Logistic Regression](https://youtu.be/B2X4H9vcXTs?si=H80Z-eU13Icgjg1g)
   - [Logistic regression for classification of data](https://youtu.be/MmZS2otPrQ8?si=R3GD89YitVP4Z2BX)
   - [Analyzing Logistic regression performance with ROC curves](https://youtu.be/GApO575jTA0?si=vHyRzqtOlAWTp8Sf)
-## Module 4: 
+
+## Module 4: Supervised machine learning: Classification 
+  - Feature engineering
+  - Decision trees
+  - Random forests
+
+## Module 5: Unsupervised machine learning
+  - K-means clustering
+  - Hierarchical clustering
+  - Principal Component Analysis (PCA)
+
+## Module 6: Model evaluation and deployment
+  - Cross-validation
+  - Hyperparameter tuning
+  - Model deployment
+    
+## Module 7: Final project
+  - Tailored portfolio project 1
+  - tailored portfolio project 2
+
 
 
