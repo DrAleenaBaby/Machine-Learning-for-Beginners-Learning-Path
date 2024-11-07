@@ -3,9 +3,8 @@
 
 # Machine Learning for Beginners Learning Path
 
-Welcome to the Machine Learning for Beginners learning path! This comprehensive course is designed to take you from a novice to a proficient ML practitioner. Each module includes theoretical concepts, practical examples, and a hands-on project to reinforce your learning.
+Welcome to the Machine Learning for Beginners learning path! This curated collection of resources (paid and unpaid) is designed to take you from a novice to a proficient ML practitioner. Each module includes theoretical concepts, practical examples, and a hands-on project to reinforce your learning. After every module, feel free to do a portfolio project from the list of projects found [here](https://topmate.io/dr_aleena_baby/1248698). If you'd like me to review your portfolio projects, please book a session [here](https://topmate.io/dr_aleena_baby/1288122).
 
-Here is a collection of YouTube videos that you can watch to get an understanding of the concepts of Machine Learning. After every module, feel free to do a portfolio project from the list of projects found [here](https://topmate.io/dr_aleena_baby/1248698). If you'd like me to review your portfolio projects, please book a session [here](https://topmate.io/dr_aleena_baby/1288122).
 ## Module 1: Introduction to Machine Learning
   - [Introduction to Machine Learning for Beginners](https://youtu.be/6mSx_KJxcHI?si=jc-O9BDEFg4WwFZN)
   - [History of Machine Learning for Beginners](https://youtu.be/N6wxM4wZ7V0?si=J4pdI73dae1t9oCs)
@@ -34,8 +33,11 @@ Here is a collection of YouTube videos that you can watch to get an understandin
   - [Your First Linear Regression Project in Python](https://youtu.be/2xkXL5EUpS0?si=1VSMDIDo6d0vibFE)
 
 ## Module 4: Supervised machine learning: Classification 
-  - Feature engineering
-  - Decision trees
+  - [Feature engineering](https://youtu.be/uu8um0JmYA8?si=ZU63-C4P2MqRDOWX)
+  - [What is one-hot code encoding](https://youtu.be/G2iVj7WKDFk?si=dX8YlfFyBgrV4j2r)
+  - [Why do we split data into training and testing datasets?](https://youtu.be/dSCFk168vmo?si=zzeimBuPj7NBcQ0V)
+  - [Decision trees: Concept](https://youtu.be/xDWZzD4TPO0?si=fNbPwUUY6j9GRh9R)
+  - [Decision trees: implementation](https://youtu.be/wxS5P7yDHRA?si=wz4kGRsfbwuRzFl4)
   - Random forests
 
 ## Module 5: Unsupervised machine learning
