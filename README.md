@@ -14,6 +14,7 @@ Welcome to the Machine Learning for Beginners learning path! This curated collec
 ## Module 2: Data Preprocessing and Exploration
   - [How to analyze and clean a dataset](https://youtu.be/5qGjczWTrDQ?si=XknlUgq5TQf2xkMg)
   - [How to visualize data with matplotlib](https://youtu.be/SbUkxH6IJo0?si=-7jLgTfxan-vU2lh)
+  - [What are missing values and how do we handle them?](https://youtu.be/v0HItX1xhNg?si=S9HTkLH9Zw7q5mUC)
   - [Exploratory data analysis](https://youtube.com/playlist?list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ&si=9wXassfHpPCqTPuy)
 
 ## Module 3: Supervised machine learning: Regression
@@ -38,7 +39,7 @@ Welcome to the Machine Learning for Beginners learning path! This curated collec
   - [Why do we split data into training and testing datasets?](https://youtu.be/dSCFk168vmo?si=zzeimBuPj7NBcQ0V)
   - [Decision trees: Concept](https://youtu.be/xDWZzD4TPO0?si=fNbPwUUY6j9GRh9R)
   - [Decision trees: implementation](https://youtu.be/wxS5P7yDHRA?si=wz4kGRsfbwuRzFl4)
-  - Random forests
+  - [Random forests](https://youtu.be/kFwe2ZZU7yw?si=TAL2JSZPseOumONo)
 
 ## Module 5: Unsupervised machine learning
   - K-means clustering
@@ -46,9 +47,11 @@ Welcome to the Machine Learning for Beginners learning path! This curated collec
   - Principal Component Analysis (PCA)
 
 ## Module 6: Model evaluation and deployment
+  - [Preparing and training ML model](https://youtu.be/pkJSiIOLnVM?si=1Ip71tu5KHruJJzL) 
   - Cross-validation
   - Hyperparameter tuning
   - Model deployment
+    
     
 ## Module 7: Final project
   - Tailored portfolio project 1
