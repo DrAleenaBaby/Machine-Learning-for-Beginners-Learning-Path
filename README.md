@@ -18,17 +18,20 @@ Here is a collection of YouTube videos that you can watch to get an understandin
   - [Exploratory data analysis](https://youtube.com/playlist?list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ&si=9wXassfHpPCqTPuy)
 
 ## Module 3: Supervised machine learning: Regression
-  - [Introduction to Regression Models for Machine Learning](https://youtu.be/XA3OaoW86R8?si=uiQCSNvAOeLMJAh6)
-  - [Set up Jupyter Notebooks to start building regression models](https://youtu.be/7E-jC8FLA2E?si=xzM0A9fCyR2FmMxI)
+  - Introduction& set up
+    - [Introduction to Regression Models for Machine Learning](https://youtu.be/XA3OaoW86R8?si=uiQCSNvAOeLMJAh6)
+    - [Set up Jupyter Notebooks to start building regression models](https://youtu.be/7E-jC8FLA2E?si=xzM0A9fCyR2FmMxI)
+  - Linear regression
+    - [Understanding Linear regression](https://youtu.be/CRxFT8oTDMg?si=nWAdm9VvxyiPLLSI)
+    - [Looking for correlation](https://youtu.be/uoRq-lW2eQo?si=sAt2uUoSKKl5MfqG)
+    - [Linear and polynomial regression using Scikit-learn](https://youtu.be/e4c_UP2fSjg?si=uG5tUJtakTMQgM56)
+    - [Categorical feature predictions with linear regression](https://youtu.be/DYGliioIAE0?si=TE8R92KxIy5ltIYA)
+  - Logistic regression 
+    - [Understanding Logistic Regression for Machine Learning classification](https://youtu.be/KpeCT6nEpBY?si=D-HEE6LQfpXLBtiC)
+    - [Data analysis and preparation for Logistic Regression](https://youtu.be/B2X4H9vcXTs?si=H80Z-eU13Icgjg1g)
+    - [Logistic regression for classification of data](https://youtu.be/MmZS2otPrQ8?si=R3GD89YitVP4Z2BX)
+    - [Analyzing Logistic regression performance with ROC curves](https://youtu.be/GApO575jTA0?si=vHyRzqtOlAWTp8Sf)
   - [Your First Linear Regression Project in Python](https://youtu.be/2xkXL5EUpS0?si=1VSMDIDo6d0vibFE)
-  - [Understanding Linear regression](https://youtu.be/CRxFT8oTDMg?si=nWAdm9VvxyiPLLSI)
-  - [Looking for correlation](https://youtu.be/uoRq-lW2eQo?si=sAt2uUoSKKl5MfqG)
-  - [Linear and polynomial regression using Scikit-learn](https://youtu.be/e4c_UP2fSjg?si=uG5tUJtakTMQgM56)
-  - [Categorical feature predictions with linear regression](https://youtu.be/DYGliioIAE0?si=TE8R92KxIy5ltIYA)
-  - [Understanding Logistic Regression for Machine Learning classification](https://youtu.be/KpeCT6nEpBY?si=D-HEE6LQfpXLBtiC)
-  - [Data analysis and preparation for Logistic Regression](https://youtu.be/B2X4H9vcXTs?si=H80Z-eU13Icgjg1g)
-  - [Logistic regression for classification of data](https://youtu.be/MmZS2otPrQ8?si=R3GD89YitVP4Z2BX)
-  - [Analyzing Logistic regression performance with ROC curves](https://youtu.be/GApO575jTA0?si=vHyRzqtOlAWTp8Sf)
 
 ## Module 4: Supervised machine learning: Classification 
   - Feature engineering
